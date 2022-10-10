@@ -4,7 +4,6 @@
 * [Tests & Style Checking](#tests-and-style-checking)
 * [Running The Application](#running-the-application)
 * [Cleaning Up](#cleaning-up)
-* [Submitting](#submitting)
 
 ## Using Gradle
 
